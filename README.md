@@ -8,7 +8,7 @@
 
 ## Template For Python Projects
 
-This is a template for Python projects. What you get:
+This is a template for Python projects created by Ole Bause. This repository includes:
 
 - Source code and test code is seperated in different directories.
 - External libraries installed and managed by [Pip](https://pypi.org/project/pip/).
